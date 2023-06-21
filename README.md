@@ -1,5 +1,5 @@
 ### ✨ Hi there! ✨
-I'm George, a postgraduate student @AUTH, pursuing a MSc in Management & Information Systems. \
+Postgraduate student @AUTH, pursuing a MSc in Management & Information Systems. \
 Currently focused on Machine Learning algorithms.
 <!--
 **gsysk/gsysk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
